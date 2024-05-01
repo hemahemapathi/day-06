@@ -1,1 +1,2 @@
-convert uml to typescript in javascript using class and objects
+a.class - movie
+b.convert uml to typescript in javascript using number for double
